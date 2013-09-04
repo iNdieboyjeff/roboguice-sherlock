@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="JeffsuttonDropboxSSGitActionBarSherlockActionbarsherlockUnspecified.aar" >
+        <source path="/Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/build/exploded-bundles/JeffsuttonDropboxSSGitActionBarSherlockActionbarsherlockUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/release/assets" />
+    </dataSet>
+
+</merger>
