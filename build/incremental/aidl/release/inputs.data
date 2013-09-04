@@ -1,0 +1,12 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372339334000 4475 0e1e10368ef613ff9f14b8f5e2f1598d0f236eed /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/activity/RoboSherlockListActivity.java
+1372339334000 694 13a22a5528871be7ec976a7f35a0b5815f8882cb /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/fragment/RoboSherlockListFragment.java
+1372339334000 699 241f35a6d8ba180d7bf504bcadad19298e423527 /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/fragment/RoboSherlockDialogFragment.java
+1372339334000 3230 7e435a68473439d8baf89305a0dbf9ed20f55df9 /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/activity/RoboSherlockFragmentActivity.java
+1372339334000 5228 b4005feb55e7f9bb208c6a415c49316b733a65cf /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/activity/RoboSherlockPreferenceActivity.java
+1372339334000 681 5ef3df5d4381f9a754116ed27e059a2e8d274dec /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/fragment/RoboSherlockFragment.java
+1372339334000 4462 479dbcaa01cf2389b494ba1a7f118d28bd99efa5 /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/activity/RoboSherlockActivity.java
+1372339334000 4119 66b9d3d586fa7d097c2d0f30ae1ed7d9ea8d8801 /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/roboguice/activity/RoboSherlockAccountAuthenticatorActivity.java
+1372339334000 3619 9865187adfeafaee11cba0875eae6968ca8f4ef0 /Users/jeffsutton/Dropbox/SS-git/roboguice-sherlock/src/main/java/com/github/rtyley/android/sherlock/android/accounts/SherlockAccountAuthenticatorActivity.java
